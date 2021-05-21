@@ -2,9 +2,9 @@
  * @Author: Author
  * @Date: 2021-05-19 11:03:49
  * @LastEditors: Author
- * @LastEditTime: 2021-05-21 15:34:05
+ * @LastEditTime: 2021-05-21 17:39:38
  * @FilePath: \C_PrimerPlus\1\1_1.c
- * @description: 简单的C源码示例
+ * @description: 简单的C源码示例 1
  */
 #include <stdio.h>
 /*
