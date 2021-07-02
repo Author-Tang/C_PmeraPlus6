@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "inttypes.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "limits.h": "c",
+        "float.h": "c"
+    }
+}
