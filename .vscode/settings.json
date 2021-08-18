@@ -5,6 +5,8 @@
         "stdio.h": "c",
         "stdint.h": "c",
         "limits.h": "c",
-        "float.h": "c"
+        "float.h": "c",
+        "cstdlib": "c",
+        "typeinfo": "c"
     }
 }
